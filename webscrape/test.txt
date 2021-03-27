@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2018 California wildfires - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cfa29286-4d6e-4272-b147-c3f7076f0b53","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"2018_California_wildfires","wgTitle":"2018 California wildfires","wgCurRevisionId":974114106,"wgRevisionId":854767931,"wgArticleId":57651272,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use mdy dates from June 2018","Articles with missing files","Commons category link is on Wikidata","2018 California wildfires","Lists of wildfires","Wildfires in California by year"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"2018_California_wildfires","wgRelevantArticleId":57651272,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q55391586"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.5"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/96/West_Coast_MODIS_via_EOSDIS_20180801.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/2018_California_wildfires"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2018_California_wildfires&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2018_California_wildfires&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2018_California_wildfires"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-2018_California_wildfires rootpage-2018_California_wildfires skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">2018 California wildfires</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><div class="mw-revision warningbox"><div id="mw-revision-info"><p><b>This is an <a href="/wiki/Help:Page_history" title="Help:Page history">old revision</a> of this page, as edited by <span id="mw-revision-name"><a href="/wiki/User:Prism55" class="mw-userlink" title="User:Prism55"><bdi>Prism55</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Prism55" class="mw-usertoollinks-talk" title="User talk:Prism55">talk</a> | <a href="/wiki/Special:Contributions/Prism55" class="mw-usertoollinks-contribs" title="Special:Contributions/Prism55">contribs</a>)</span></span> at <span id="mw-revision-date">16:54, 13 August 2018</span><span id="mw-revision-summary"></span>. The present address (URL) is a <a href="/wiki/Help:Permanent_link" title="Help:Permanent link">permanent link</a> to this revision, which may differ significantly from the <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/wiki/2018_California_wildfires">current revision</a></span>.</b></p><div id="revision-info-plain" style="display: none;">Revision as of 16:54, 13 August 2018 by <a href="/wiki/User:Prism55" class="mw-userlink" title="User:Prism55"><bdi>Prism55</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Prism55" class="mw-usertoollinks-talk" title="User talk:Prism55">talk</a> | <a href="/wiki/Special:Contributions/Prism55" class="mw-usertoollinks-contribs" title="Special:Contributions/Prism55">contribs</a>)</span></div></div><div id="mw-revision-nav">(<a href="/w/index.php?title=2018_California_wildfires&amp;diff=prev&amp;oldid=854767931" title="2018 California wildfires">diff</a>) <a href="/w/index.php?title=2018_California_wildfires&amp;direction=prev&amp;oldid=854767931" title="2018 California wildfires">← Previous revision</a> | <a href="/wiki/2018_California_wildfires" title="2018 California wildfires">Latest revision</a> (<a href="/w/index.php?title=2018_California_wildfires&amp;diff=cur&amp;oldid=854767931" title="2018 California wildfires">diff</a>) | <a href="/w/index.php?title=2018_California_wildfires&amp;direction=next&amp;oldid=854767931" title="2018 California wildfires">Newer revision →</a> (<a href="/w/index.php?title=2018_California_wildfires&amp;diff=next&amp;oldid=854767931" title="2018 California wildfires">diff</a>)</div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: sandybrown;">2018 California wildfires</th></tr><tr><td colspan="2" style="text-align:center"><table style="margin-left:auto;margin-right:auto"><tbody><tr><td align="center"><div style="position:relative;left:0px;top:0px;width:220px;height:370px"><span style="position:absolute;left:0px;top:0px;z-index:0;width:220px;height:370px"><a href="/wiki/File:West_Coast_MODIS_via_EOSDIS_20180801.png" class="image"><img alt="West Coast MODIS via EOSDIS 20180801.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/West_Coast_MODIS_via_EOSDIS_20180801.png/220px-West_Coast_MODIS_via_EOSDIS_20180801.png" decoding="async" width="220" height="370" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/West_Coast_MODIS_via_EOSDIS_20180801.png/330px-West_Coast_MODIS_via_EOSDIS_20180801.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/West_Coast_MODIS_via_EOSDIS_20180801.png/440px-West_Coast_MODIS_via_EOSDIS_20180801.png 2x" data-file-width="589" data-file-height="991" /></a></span><div style="position:absolute;left:20px;top:178px;line-height:95%;z-index:1"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Garner Complex" style="color:white;font-size:88%;font-weight:bold">1</span></div></div><div style="position:absolute;left:31px;top:194px;line-height:95%;z-index:1"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Natchez Fire" style="color:white;font-size:88%;font-weight:bold">2</span></div></div><div style="position:absolute;left:44px;top:218px;line-height:95%;z-index:1"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Carr Fire" style="color:white;font-size:88%;font-weight:bold">3</span></div></div><div style="position:absolute;left:43px;top:240px;line-height:95%;z-index:1"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Mendocino Complex" style="color:white;font-size:88%;font-weight:bold">4</span></div></div><div style="position:absolute;left:112px;top:280px;line-height:95%;z-index:1"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Ferguson Fire" style="color:white;font-size:88%;font-weight:bold">5</span></div></div></div></td></tr><tr><td><table style="width:100%;border:"><tbody><tr><td style="width:0.5%;vertical-align:top"><table style="width:100%;font-size:85%;line-height:95%"><tbody><tr style="vertical-align:top"><td style="width:12px;text-align:right;padding-bottom:2px"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Garner Complex" style="color:white;font-size:88%;font-weight:bold">1</span></div></td><td style="padding-bottom:2px">Garner&#160;Complex</td></tr><tr style="vertical-align:top"><td style="width:12px;text-align:right;padding-bottom:2px"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Natchez Fire" style="color:white;font-size:88%;font-weight:bold">2</span></div></td><td style="padding-bottom:2px"><a href="/wiki/Natchez_Fire" title="Natchez Fire">Natchez  Fire</a></td></tr><tr style="vertical-align:top"><td style="width:12px;text-align:right;padding-bottom:2px"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Carr Fire" style="color:white;font-size:88%;font-weight:bold">3</span></div></td><td style="padding-bottom:2px"><a href="/wiki/Carr_Fire" title="Carr Fire">Carr Fire</a></td></tr></tbody></table></td><td style="width:0.5%;vertical-align:top"><table style="width:100%;font-size:85%;line-height:95%"><tbody><tr style="vertical-align:top"><td style="width:12px;text-align:right;padding-bottom:2px"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Mendocino Complex" style="color:white;font-size:88%;font-weight:bold">4</span></div></td><td style="padding-bottom:2px"><a href="/wiki/Mendocino_Complex" class="mw-redirect" title="Mendocino Complex">Mendocino&#160;Complex</a></td></tr><tr style="vertical-align:top"><td style="width:12px;text-align:right;padding-bottom:2px"><div style="display:inline-block;width:auto;height:auto;text-align:center;padding:0px 4px;vertical-align:middle;border-radius:3px;background-color:red"><span title="Ferguson Fire" style="color:white;font-size:88%;font-weight:bold">5</span></div></td><td style="padding-bottom:2px"><a href="/wiki/Ferguson_Fire" title="Ferguson Fire">Ferguson&#160;Fire</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><div>Satellite image of the wildfires burning in Northern California and in southern Oregon, on August 1, 2018; smoke is can be seen trailing northeastward over Nevada, Oregon, Washington, and Idaho</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: sandybrown;">Statistics<sup id="cite_ref-CalFire_Stats_1-0" class="reference"><a href="#cite_note-CalFire_Stats-1">&#91;1&#93;</a></sup><sup id="cite_ref-SACC_2-0" class="reference"><a href="#cite_note-SACC-2">&#91;2&#93;</a></sup><sup id="cite_ref-SACC_website_3-0" class="reference"><a href="#cite_note-SACC_website-3">&#91;3&#93;</a></sup></th></tr><tr><th scope="row" style="white-space: nowrap;">Total fires</th><td>5,168</td></tr><tr><th scope="row" style="white-space: nowrap;">Total area</th><td>895,386 acres (3,623.50&#160;km<sup>2</sup>)</td></tr><tr><th scope="row" style="white-space: nowrap;">Cost</th><td>&gt;$509.401 million (2018 USD)<sup id="cite_ref-LargeIncidentReport_4-0" class="reference"><a href="#cite_note-LargeIncidentReport-4">&#91;4&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap;">Deaths</th><td>8 civilians, 5 firefighters<sup id="cite_ref-found_dead_5-0" class="reference"><a href="#cite_note-found_dead-5">&#91;5&#93;</a></sup><sup id="cite_ref-FergusonDeath_6-0" class="reference"><a href="#cite_note-FergusonDeath-6">&#91;6&#93;</a></sup><sup id="cite_ref-CarrDeath_7-0" class="reference"><a href="#cite_note-CarrDeath-7">&#91;7&#93;</a></sup><sup id="cite_ref-CarrFirefighterDeath_8-0" class="reference"><a href="#cite_note-CarrFirefighterDeath-8">&#91;8&#93;</a></sup><sup id="cite_ref-SecondDeath_9-0" class="reference"><a href="#cite_note-SecondDeath-9">&#91;9&#93;</a></sup><sup id="cite_ref-PG&amp;E_10-0" class="reference"><a href="#cite_note-PG&amp;E-10">&#91;10&#93;</a></sup><sup id="cite_ref-Eighth_Carr_11-0" class="reference"><a href="#cite_note-Eighth_Carr-11">&#91;11&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap;">Non-fatal injuries</th><td>At least 10</td></tr><tr><th colspan="2" style="text-align:center;background-color: sandybrown;">Season</th></tr><tr><td colspan="2" style="text-align:center"><div style="float: left;">←&#160;<a href="/wiki/2017_California_wildfires" title="2017 California wildfires">2017</a></div>
+<div style="float: right;"><a href="/wiki/2019_California_wildfires" title="2019 California wildfires">2019</a>&#160;→</div></td></tr></tbody></table>
+<p>The <b>2018 California wildfires</b> are a series of <a href="/wiki/Wildfire" title="Wildfire">wildfires</a> that have burned across the state of <a href="/wiki/California" title="California">California</a> during the year of 2018. A national disaster was declared in Northern California on August 4, 2018.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> A total of 5,168 fires had burned an area of 895,386 acres (3,623.50&#160;km<sup>2</sup>), according to the <a href="/wiki/California_Department_of_Forestry_and_Fire_Protection" title="California Department of Forestry and Fire Protection">California Department of Forestry and Fire Protection</a> and the <a href="/wiki/National_Interagency_Fire_Center" title="National Interagency Fire Center">National Interagency Fire Center</a>, as of August 12.<sup id="cite_ref-CalFire_Stats_1-1" class="reference"><a href="#cite_note-CalFire_Stats-1">&#91;1&#93;</a></sup><sup id="cite_ref-SACC_2-1" class="reference"><a href="#cite_note-SACC-2">&#91;2&#93;</a></sup><sup id="cite_ref-SACC_website_3-1" class="reference"><a href="#cite_note-SACC_website-3">&#91;3&#93;</a></sup> The active <a href="/wiki/Mendocino_Complex_Fire" title="Mendocino Complex Fire">Mendocino Complex Fire</a> has burned more than 344,000 acres (1,390&#160;km<sup>2</sup>), becoming the largest complex fire in the state's history, with the complex's Ranch Fire surpassing the <a href="/wiki/Thomas_Fire" title="Thomas Fire">Thomas Fire</a> to become California's single-largest modern wildfire.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-Ranch_Fire_14-0" class="reference"><a href="#cite_note-Ranch_Fire-14">&#91;14&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Increased_fire_susceptibility"><span class="tocnumber">1</span> <span class="toctext">Increased fire susceptibility</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Increase_in_fuel"><span class="tocnumber">1.1</span> <span class="toctext">Increase in fuel</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Atmospheric_conditions"><span class="tocnumber">1.2</span> <span class="toctext">Atmospheric conditions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Home_construction_in_the_wildland-urban_interface"><span class="tocnumber">1.3</span> <span class="toctext">Home construction in the wildland-urban interface</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Air_quality"><span class="tocnumber">2</span> <span class="toctext">Air quality</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Wildfires"><span class="tocnumber">3</span> <span class="toctext">Wildfires</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Fatalities"><span class="tocnumber">4</span> <span class="toctext">Fatalities</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Increased_fire_susceptibility">Increased fire susceptibility</span></h2>
+<p>Many different factors led to the 2018 California wildfire season becoming so devastating. A combination of an increased amount of natural fuel and compounding atmospheric conditions from <a href="/wiki/Global_warming" class="mw-redirect" title="Global warming">global warming</a> led to a series of destructive fires.
+</p>
+<h3><span class="mw-headline" id="Increase_in_fuel">Increase in fuel</span></h3>
+<p>A direct contributor to the 2018 California wildfires was an increase in dead tree fuel.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> By December 2017, there were a record 129 million dead trees in California.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Atmospheric_conditions">Atmospheric conditions</span></h3>
+<p><a href="/wiki/Stanford_University" title="Stanford University">Stanford</a> <a href="/wiki/Earth_System_Science" class="mw-redirect" title="Earth System Science">Earth System Science</a> Professor <a href="/wiki/Noah_Diffenbaugh" title="Noah Diffenbaugh">Noah Diffenbaugh</a> stated that atmospheric conditions for <a href="/wiki/California_wildfires" class="mw-redirect" title="California wildfires">California wildfires</a> are expected to worsen in the future because of the effects of <a href="/wiki/Climate_change_in_California" title="Climate change in California">climate change in California</a> and that "what we're seeing over the last few years in terms of the wildfire season in California [is] very consistent with the historical trends in terms of increasing temperatures, increasing dryness, and increasing wildfire risk". Other experts agreed, saying that <a href="/wiki/Global_warming" class="mw-redirect" title="Global warming">global warming</a> is to blame for these extreme weather conditions. <a href="/wiki/Global_warming" class="mw-redirect" title="Global warming">Global warming</a> resulted in higher temperatures and less rain, creating a drier landscape that gave fires more fuel to burn longer and stronger.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Home_construction_in_the_wildland-urban_interface">Home construction in the wildland-urban interface</span></h3>
+<p>A <a href="/wiki/Wildland%E2%80%93urban_interface" title="Wildland–urban interface">wildland–urban interface</a> (or WUI) refers to the zone of transition between unoccupied land and human development. Communities that are within 0.5 miles (0.80 km) of the zone may also be included. These lands and communities adjacent to and surrounded by wildlands are at risk of wildfires.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Since the 1990s, over 43% of new homes have been constructed in this area. In some areas it's nearly 80%.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> In the past, when these areas burned, no homes were lost, but now homes are there and are being destroyed.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Air_quality">Air quality</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:AirqualityCA2018August.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/AirqualityCA2018August.jpg/220px-AirqualityCA2018August.jpg" decoding="async" width="220" height="168" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/AirqualityCA2018August.jpg/330px-AirqualityCA2018August.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/AirqualityCA2018August.jpg/440px-AirqualityCA2018August.jpg 2x" data-file-width="525" data-file-height="400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:AirqualityCA2018August.jpg" class="internal" title="Enlarge"></a></div>Air quality of California August 7, 2018</div></div></div><div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=AirqualityLegend2018.png" class="new" title="File:AirqualityLegend2018.png">File:AirqualityLegend2018.png</a>  <div class="thumbcaption"></div></div></div>
+<p>Northern California and the <a href="/wiki/Central_Valley_(California)" title="Central Valley (California)">Central Valley</a> saw drastic increases in air pollutants during the height of the July and August fires, while Southern California also experienced an increase in air pollution in August.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Wildfires">Wildfires</span></h2>
+<p>The following is a list of fires that burned more than 1,000 acres, or produced significant structural damage or loss of life.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:California_National_Guard_battles_wildfires_(7900427458).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/California_National_Guard_battles_wildfires_%287900427458%29.jpg/220px-California_National_Guard_battles_wildfires_%287900427458%29.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/California_National_Guard_battles_wildfires_%287900427458%29.jpg/330px-California_National_Guard_battles_wildfires_%287900427458%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/California_National_Guard_battles_wildfires_%287900427458%29.jpg/440px-California_National_Guard_battles_wildfires_%287900427458%29.jpg 2x" data-file-width="2400" data-file-height="3600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:California_National_Guard_battles_wildfires_(7900427458).jpg" class="internal" title="Enlarge"></a></div>California National Guard battles wildfires.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Beetle_Infestation_Hume_Lake,_California.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beetle_Infestation_Hume_Lake%2C_California.jpg/220px-Beetle_Infestation_Hume_Lake%2C_California.jpg" decoding="async" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beetle_Infestation_Hume_Lake%2C_California.jpg/330px-Beetle_Infestation_Hume_Lake%2C_California.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Beetle_Infestation_Hume_Lake%2C_California.jpg/440px-Beetle_Infestation_Hume_Lake%2C_California.jpg 2x" data-file-width="3000" data-file-height="2400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Beetle_Infestation_Hume_Lake,_California.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Hume_Lake" title="Hume Lake">Hume Lake</a> showing extensive <a href="/wiki/Mountain_pine_beetle" title="Mountain pine beetle">mountain pine beetle</a> damage as of April 2016. Hume Lake, Sierra Nevada Mountains, California</div></div></div>
+<table class="wikitable sortable" style="text-align:center;">
+
+<tbody><tr>
+<th>Name
+</th>
+<th>County
+</th>
+<th>Acres
+</th>
+<th>Start date
+</th>
+<th>Containment date
+</th>
+<th data-sort-type="number">Status
+</th>
+<th>Notes
+</th>
+<th class="unsortable">Ref
+</th></tr>
+<tr>
+<td>Pleasant</td>
+<td><a href="/wiki/Inyo_County,_California" title="Inyo County, California">Inyo</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,070</td>
+<td>February 18, 2018</td>
+<td>April 3, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Moffat</td>
+<td><a href="/wiki/Inyo_County,_California" title="Inyo County, California">Inyo</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,265</td>
+<td>April 19, 2018</td>
+<td>May 21, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Nees</td>
+<td><a href="/wiki/Merced_County,_California" title="Merced County, California">Merced</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,756</td>
+<td>May 2, 2018</td>
+<td>May 17, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Patterson</td>
+<td><a href="/wiki/Riverside_County,_California" title="Riverside County, California">Riverside</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,261</td>
+<td>May 17, 2018</td>
+<td>May 21, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Panoche</td>
+<td><a href="/wiki/San_Benito_County,_California" title="San Benito County, California">San Benito</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">64</td>
+<td>June 4, 2018</td>
+<td>June 7, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>3 civilians killed</td>
+<td><sup id="cite_ref-" class="reference"><a href="#cite_note-">&#91;26&#93;</a></sup><sup id="cite_ref-found_dead_5-1" class="reference"><a href="#cite_note-found_dead-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Stone</td>
+<td><a href="/wiki/Los_Angeles_County,_California" title="Los Angeles County, California">Los Angeles</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,352</td>
+<td>June 4, 2018</td>
+<td>June 13, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-Stone_Fire_27-0" class="reference"><a href="#cite_note-Stone_Fire-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Airline</td>
+<td><a href="/wiki/San_Benito_County,_California" title="San Benito County, California">San Benito</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,314</td>
+<td>June 4, 2018</td>
+<td>June 14, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-Airline_Fire_28-0" class="reference"><a href="#cite_note-Airline_Fire-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Apple</td>
+<td><a href="/wiki/Tehama_County,_California" title="Tehama County, California">Tehama</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,956</td>
+<td>June 9, 2018</td>
+<td>June 14, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>3 residential structures and 2 outbuilding destroyed</td>
+<td><sup id="cite_ref-Apple_Fire_29-0" class="reference"><a href="#cite_note-Apple_Fire-29">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Chrome</td>
+<td><a href="/wiki/Glenn_County,_California" title="Glenn County, California">Glenn</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,290</td>
+<td>June 9, 2018</td>
+<td>June 21, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>1 outbuilding destroyed</td>
+<td><sup id="cite_ref-Chrome_Fire_30-0" class="reference"><a href="#cite_note-Chrome_Fire-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lions_Fire" title="Lions Fire">Lions</a></td>
+<td><a href="/wiki/Madera_County,_California" title="Madera County, California">Madera</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">9,905</td>
+<td>June 11, 2018</td>
+<td></td>
+<td>70% contained</td>
+<td></td>
+<td><sup id="cite_ref-Lions_Fire_31-0" class="reference"><a href="#cite_note-Lions_Fire-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Planada</td>
+<td><a href="/wiki/Merced_County,_California" title="Merced County, California">Merced</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">4,564</td>
+<td>June 15, 2018</td>
+<td>June 21, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-Planada_Fire_33-0" class="reference"><a href="#cite_note-Planada_Fire-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Yankee</td>
+<td><a href="/wiki/San_Luis_Obispo_County,_California" title="San Luis Obispo County, California">San Luis Obispo</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,500</td>
+<td>June 20, 2018</td>
+<td>July 1, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-Yankee_Fire_34-0" class="reference"><a href="#cite_note-Yankee_Fire-34">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lane_Fire" title="Lane Fire">Lane</a></td>
+<td><a href="/wiki/Tehama_County,_California" title="Tehama County, California">Tehama</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">3,716</td>
+<td>June 23, 2018</td>
+<td>July 4, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>1 injury</td>
+<td><sup id="cite_ref-Lane_Fire_35-0" class="reference"><a href="#cite_note-Lane_Fire-35">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pawnee_Fire" title="Pawnee Fire">Pawnee</a></td>
+<td><a href="/wiki/Lake_County,_California" title="Lake County, California">Lake</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">15,185</td>
+<td>June 23, 2018</td>
+<td>July 8, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>22 structures destroyed, 1 injury</td>
+<td><sup id="cite_ref-Pawnee_Fire_36-0" class="reference"><a href="#cite_note-Pawnee_Fire-36">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Creek</td>
+<td><a href="/wiki/Madera_County,_California" title="Madera County, California">Madera</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,678</td>
+<td>June 24, 2018</td>
+<td>July 5, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>4 residential structures and 7 minor structures destroyed</td>
+<td><sup id="cite_ref-Creek_Fire_2018_37-0" class="reference"><a href="#cite_note-Creek_Fire_2018-37">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Waverly_Fire" title="Waverly Fire">Waverly</a></td>
+<td><a href="/wiki/San_Joaquin_County,_California" title="San Joaquin County, California">San Joaquin</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">12,300</td>
+<td>June 29, 2018</td>
+<td>July 2, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/County_Fire" title="County Fire">County</a></td>
+<td><a href="/wiki/Lake_County,_California" title="Lake County, California">Lake</a>, <a href="/wiki/Napa_County,_California" title="Napa County, California">Napa</a>, <a href="/wiki/Yolo_County,_California" title="Yolo County, California">Yolo</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">90,288</td>
+<td>June 30, 2018</td>
+<td>July 14, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>20 structures destroyed; 1 firefighter injured</td>
+<td><sup id="cite_ref-County_Fire_39-0" class="reference"><a href="#cite_note-County_Fire-39">&#91;39&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Klamathon_Fire" title="Klamathon Fire">Klamathon</a></td>
+<td><a href="/wiki/Siskiyou_County,_California" title="Siskiyou County, California">Siskiyou</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">38,008</td>
+<td>July 5, 2018</td>
+<td>July 16, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>82 structures destroyed; 3 injuries, 1 civilian killed</td>
+<td><sup id="cite_ref-Klamathon_Fire_40-0" class="reference"><a href="#cite_note-Klamathon_Fire-40">&#91;40&#93;</a></sup><sup id="cite_ref-one_dead_41-0" class="reference"><a href="#cite_note-one_dead-41">&#91;41&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Valley_Fire_(2018)" title="Valley Fire (2018)">Valley</a></td>
+<td><a href="/wiki/San_Bernardino_County,_California" title="San Bernardino County, California">San Bernardino</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,350</td>
+<td>July 6, 2018</td>
+<td>July 24, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-Valley_Fire_42-0" class="reference"><a href="#cite_note-Valley_Fire-42">&#91;42&#93;</a></sup><sup id="cite_ref-LargeIncidentReport_4-1" class="reference"><a href="#cite_note-LargeIncidentReport-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Holiday</td>
+<td><a href="/wiki/Santa_Barbara_County,_California" title="Santa Barbara County, California">Santa Barbara</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">113</td>
+<td>July 6, 2018</td>
+<td>July 11, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>20 structures destroyed</td>
+<td><sup id="cite_ref-Holiday_Fire_43-0" class="reference"><a href="#cite_note-Holiday_Fire-43">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Pendleton Complex</td>
+<td><a href="/wiki/San_Diego_County,_California" title="San Diego County, California">San Diego</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,800</td>
+<td>July 6, 2018</td>
+<td>July 11, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>Originated as 3 separate fires; burned in Camp Pendleton</td>
+<td><sup id="cite_ref-2_fires_44-0" class="reference"><a href="#cite_note-2_fires-44">&#91;44&#93;</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<td>West</td>
+<td><a href="/wiki/San_Diego_County,_California" title="San Diego County, California">San Diego</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">504</td>
+<td>July 6, 2018</td>
+<td>July 11, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>56 structures destroyed</td>
+<td><sup id="cite_ref-West_Fire_46-0" class="reference"><a href="#cite_note-West_Fire-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Georges_Fire" title="Georges Fire">Georges</a></td>
+<td><a href="/wiki/Inyo_County,_California" title="Inyo County, California">Inyo</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,883</td>
+<td>July 8, 2018</td>
+<td>July 16, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><sup id="cite_ref-LargeIncidentReport_4-2" class="reference"><a href="#cite_note-LargeIncidentReport-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ferguson_Fire" title="Ferguson Fire">Ferguson</a></td>
+<td><a href="/wiki/Mariposa_County,_California" title="Mariposa County, California">Mariposa</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">96,457</td>
+<td>July 13, 2018</td>
+<td></td>
+<td>86% contained</td>
+<td>11 injured, 2 firefighters killed, 10 structures destroyed
+</td>
+<td><sup id="cite_ref-FergusonDeath_6-1" class="reference"><a href="#cite_note-FergusonDeath-6">&#91;6&#93;</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Eagle</td>
+<td><a href="/wiki/Modoc_County,_California" title="Modoc County, California">Modoc</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,100</td>
+<td>July 13, 2018</td>
+<td>July 17, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup><sup id="cite_ref-LargeIncidentReport_4-3" class="reference"><a href="#cite_note-LargeIncidentReport-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Natchez_Fire" title="Natchez Fire">Natchez</a></td>
+<td><a href="/wiki/Del_Norte_County,_California" title="Del Norte County, California">Del Norte</a>, <a href="/wiki/Siskiyou_County,_California" title="Siskiyou County, California">Siskiyou</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">12,667</td>
+<td>July 15, 2018</td>
+<td></td>
+<td>52% contained</td>
+<td></td>
+<td><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Carr_Fire" title="Carr Fire">Carr</a></td>
+<td><a href="/wiki/Shasta_County,_California" title="Shasta County, California">Shasta</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">202,976</td>
+<td>July 23, 2018</td>
+<td></td>
+<td>61% contained</td>
+<td>1,077 residences, 22 commercial structures, 500 outbuildings destroyed - 191 residences, 26 commercial structures and 65 outbuildings damaged, 3 firefighters dead, 5 civilians dead</td>
+<td><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cranston_Fire" title="Cranston Fire">Cranston</a></td>
+<td><a href="/wiki/Riverside_County,_California" title="Riverside County, California">Riverside</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">13,139</td>
+<td>July 26, 2018</td>
+<td>August 10, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mendocino_Complex_Fire" title="Mendocino Complex Fire">Mendocino Complex</a></td>
+<td><a href="/wiki/Mendocino_County,_California" title="Mendocino County, California">Mendocino</a>, <a href="/wiki/Lake_County,_California" title="Lake County, California">Lake</a>, <a href="/wiki/Colusa_County,_California" title="Colusa County, California">Colusa</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">344,890</td>
+<td>July 27, 2018</td>
+<td></td>
+<td>68% contained</td>
+<td>The Ranch and River Fires are collectively called the Mendocino Complex Fire. 139 residential buildings destroyed, 119 others destroyed - 13 residential buildings and 24 other buildings damaged</td>
+<td><sup id="cite_ref-River_Fire_53-0" class="reference"><a href="#cite_note-River_Fire-53">&#91;53&#93;</a></sup><sup id="cite_ref-Ranch_Fire_14-1" class="reference"><a href="#cite_note-Ranch_Fire-14">&#91;14&#93;</a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
+<p><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Whaleback_Fire" title="Whaleback Fire">Whaleback</a></td>
+<td><a href="/wiki/Lassen_County,_California" title="Lassen County, California">Lassen</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">18,703</td>
+<td>July 27, 2018</td>
+<td>August 7, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Butte</td>
+<td><a href="/wiki/Sutter_County,_California" title="Sutter County, California">Sutter</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,200</td>
+<td>July 31, 2018</td>
+<td>August 3, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Donnell_Fire" title="Donnell Fire">Donnell</a></td>
+<td><a href="/wiki/Tuolumne_County,_California" title="Tuolumne County, California">Tuolumne</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">28,302</td>
+<td>August 1, 2018</td>
+<td></td>
+<td>20% contained</td>
+<td></td>
+<td><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Tarina</td>
+<td><a href="/wiki/Kern_County,_California" title="Kern County, California">Kern</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,950</td>
+<td>August 3, 2018</td>
+<td>August 6, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;59&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Pendleton</td>
+<td><a href="/wiki/San_Diego_County,_California" title="San Diego County, California">San Diego</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">1,000</td>
+<td>August 5, 2018</td>
+<td>August 6, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td>Burned in Camp Pendleton</td>
+<td><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;60&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Turkey</td>
+<td><a href="/wiki/Monterey_County,_California" title="Monterey County, California">Monterey</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,225</td>
+<td>August 6, 2018</td>
+<td>August 6, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;61&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Holy_Fire_(fire)" class="mw-redirect" title="Holy Fire (fire)">Holy</a></td>
+<td><a href="/wiki/Orange_County,_California" title="Orange County, California">Orange</a>, <a href="/wiki/Riverside_County,_California" title="Riverside County, California">Riverside</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">22,714</td>
+<td>August 6, 2018</td>
+<td></td>
+<td>52% contained</td>
+<td></td>
+<td><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;62&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Five</td>
+<td><a href="/wiki/Kings_County,_California" title="Kings County, California">Kings</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,995</td>
+<td>August 6, 2018</td>
+<td>August 8, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;63&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Hat</td>
+<td><a href="/wiki/Shasta_County" class="mw-redirect" title="Shasta County">Shasta</a></td>
+<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">1,900</td>
+<td>August 9, 2018</td>
+<td></td>
+<td>55% contained</td>
+<td></td>
+<td><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">&#91;64&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Nelson</td>
+<td><a href="/wiki/Solano_County" class="mw-redirect" title="Solano County">Solano</a></td>
+<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">2,162</td>
+<td>August 10, 2018</td>
+<td>August 12, 2018</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Contained</td>
+<td></td>
+<td><sup id="cite_ref-65" class="reference"><a href="#cite_note-65">&#91;65&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Fatalities">Fatalities</span></h2>
+<p>On June 4, the <a href="/w/index.php?title=Panoche_Fire&amp;action=edit&amp;redlink=1" class="new" title="Panoche Fire (page does not exist)">Panoche Fire</a> broke out, in a series of three blazes that started in the <a href="/wiki/San_Benito_County,_California" title="San Benito County, California">San Benito County</a> area. While the Panoche incident was the smallest of the three fires, burning only 64 acres (26&#160;ha), the remains of three people were found in a destroyed camping trailer in the burn area.<sup id="cite_ref-found_dead_5-2" class="reference"><a href="#cite_note-found_dead-5">&#91;5&#93;</a></sup><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;66&#93;</a></sup> The remains were believed to belong to a mother, a toddler, and an infant.<sup id="cite_ref-found_dead_5-3" class="reference"><a href="#cite_note-found_dead-5">&#91;5&#93;</a></sup><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">&#91;67&#93;</a></sup>
+</p><p>On July 14, a <a href="/wiki/Cal_Fire" class="mw-redirect" title="Cal Fire">Cal Fire</a> bulldozer operator was killed while fighting the <a href="/wiki/Ferguson_Fire" title="Ferguson Fire">Ferguson Fire</a> becoming the first firefighter death of the season.<sup id="cite_ref-FergusonDeath_6-2" class="reference"><a href="#cite_note-FergusonDeath-6">&#91;6&#93;</a></sup>
+</p><p>On July 23, the <a href="/wiki/Carr_Fire" title="Carr Fire">Carr Fire</a> broke out after a vehicle malfunctioned. While the <a href="/wiki/Carr_Fire" title="Carr Fire">Carr Fire</a> burned in rural areas of <a href="/wiki/Shasta_County" class="mw-redirect" title="Shasta County">Shasta County</a> for the first few days, it crossed the <a href="/wiki/Sacramento_River" title="Sacramento River">Sacramento River</a> and entered the city limits of <a href="/wiki/Redding,_California" title="Redding, California">Redding, California</a> on the evening of July 26. By the next morning, 2 firefighters and 4 civilians would be dead.<sup id="cite_ref-CarrDeath_7-1" class="reference"><a href="#cite_note-CarrDeath-7">&#91;7&#93;</a></sup><sup id="cite_ref-CarrFirefighterDeath_8-1" class="reference"><a href="#cite_note-CarrFirefighterDeath-8">&#91;8&#93;</a></sup><sup id="cite_ref-CarrFire6Deaths_68-0" class="reference"><a href="#cite_note-CarrFire6Deaths-68">&#91;68&#93;</a></sup>As of the afternoon of July 29, there are 7 people still unaccounted for.<sup id="cite_ref-CarrMissing_69-0" class="reference"><a href="#cite_note-CarrMissing-69">&#91;69&#93;</a></sup>
+</p><p>On July 29, a firefighter with the <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> was killed after a dead tree fell and struck him, while he was fighting the <a href="/wiki/Ferguson_Fire" title="Ferguson Fire">Ferguson Fire</a>. He was "treated on scene, but died before he could be taken to the hospital".<sup id="cite_ref-SecondDeath_9-1" class="reference"><a href="#cite_note-SecondDeath-9">&#91;9&#93;</a></sup>
+</p><p>On August 4, a <a href="/wiki/PG%26E" class="mw-redirect" title="PG&amp;E">PG&amp;E</a> employee was killed in a vehicle incident while working to restore services to areas impacted by the Carr Fire.<sup id="cite_ref-PG&amp;E_10-1" class="reference"><a href="#cite_note-PG&amp;E-10">&#91;10&#93;</a></sup>
+</p><p>On August 9, a CAL Fire heavy equipment mechanic was killed in a traffic incident while working at the Carr Fire.<sup id="cite_ref-Eighth_Carr_11-1" class="reference"><a href="#cite_note-Eighth_Carr-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/List_of_California_wildfires" title="List of California wildfires">List of California wildfires</a></li>
+<li><a href="/wiki/October_2017_Northern_California_wildfires" title="October 2017 Northern California wildfires">October 2017 Northern California wildfires</a></li>
+<li><a href="/wiki/Climate_change_in_California" title="Climate change in California">Climate change in California</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-CalFire_Stats-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CalFire_Stats_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CalFire_Stats_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_stats">"2018 Fire Statistics"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i>. July 1, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=2018+Fire+Statistics&amp;rft.date=2018-07-01&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_stats&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-SACC-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-SACC_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SACC_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://gacc.nifc.gov/sacc/predictive/intelligence/NationalYTDbyStateandAgency.pdf">"2018 National Year-to-Date Report on Fires and Acres Burned"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/National_Interagency_Fire_Center" title="National Interagency Fire Center">NIFC</a></i>. July 13, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NIFC&amp;rft.atitle=2018+National+Year-to-Date+Report+on+Fires+and+Acres+Burned&amp;rft.date=2018-07-13&amp;rft_id=https%3A%2F%2Fgacc.nifc.gov%2Fsacc%2Fpredictive%2Fintelligence%2FNationalYTDbyStateandAgency.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-SACC_website-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-SACC_website_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SACC_website_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://gacc.nifc.gov/sacc/intelligence.php">"Southern Area Coordination Center"</a>. <i>Southern Area Coordination Center</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Southern+Area+Coordination+Center&amp;rft.atitle=Southern+Area+Coordination+Center&amp;rft_id=https%3A%2F%2Fgacc.nifc.gov%2Fsacc%2Fintelligence.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-LargeIncidentReport-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-LargeIncidentReport_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LargeIncidentReport_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LargeIncidentReport_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-LargeIncidentReport_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://gacc.nifc.gov/sacc/predictive/intelligence/NationalLargeIncidentYTDReport.pdf">"NationalLargeIncidentReport"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NationalLargeIncidentReport&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-11&amp;rft_id=https%3A%2F%2Fgacc.nifc.gov%2Fsacc%2Fpredictive%2Fintelligence%2FNationalLargeIncidentYTDReport.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-found_dead-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-found_dead_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-found_dead_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-found_dead_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-found_dead_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.latimes.com/local/lanow/la-me-ln-wildfire-deaths-20180605-story.html">"Woman, toddler, infant found dead at Central California wildfire scene"</a>. <a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a>. June 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Woman%2C+toddler%2C+infant+found+dead+at+Central+California+wildfire+scene&amp;rft.pub=Los+Angeles+Times&amp;rft.date=2018-06-05&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Flocal%2Flanow%2Fla-me-ln-wildfire-deaths-20180605-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-FergusonDeath-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FergusonDeath_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FergusonDeath_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FergusonDeath_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.modbee.com/latest-news/article215255400.html">"Services set in Modesto for Cal Fire bulldozer operator killed fighting Ferguson fire"</a>. <i>modbee</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 22,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=modbee&amp;rft.atitle=Services+set+in+Modesto+for+Cal+Fire+bulldozer+operator+killed+fighting+Ferguson+fire&amp;rft_id=https%3A%2F%2Fwww.modbee.com%2Flatest-news%2Farticle215255400.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-CarrDeath-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-CarrDeath_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CarrDeath_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.nbcbayarea.com/news/local/Two-Kids-and-Their-Grandmother-Missing-Following-Devastating-Carr-Fire-489424201.html?_osource=SocialFlowFB_BAYBrand">"Two Missing Kids, Great-Grandmother in Redding Found Dead: Family"</a>. <i>NBC Bay Area</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NBC+Bay+Area&amp;rft.atitle=Two+Missing+Kids%2C+Great-Grandmother+in+Redding+Found+Dead%3A+Family&amp;rft_id=https%3A%2F%2Fwww.nbcbayarea.com%2Fnews%2Flocal%2FTwo-Kids-and-Their-Grandmother-Missing-Following-Devastating-Carr-Fire-489424201.html%3F_osource%3DSocialFlowFB_BAYBrand&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-CarrFirefighterDeath-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-CarrFirefighterDeath_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CarrFirefighterDeath_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.sfgate.com/california-wildfires/article/Deadly-erratic-Carr-Fire-forces-widespread-13110284.php">"Carr Fire kills two firefighters near Redding, destroys 500 structures"</a>. <i>SF Gate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SF+Gate&amp;rft.atitle=Carr+Fire+kills+two+firefighters+near+Redding%2C+destroys+500+structures&amp;rft_id=https%3A%2F%2Fwww.sfgate.com%2Fcalifornia-wildfires%2Farticle%2FDeadly-erratic-Carr-Fire-forces-widespread-13110284.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-SecondDeath-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-SecondDeath_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SecondDeath_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fresnobee.com/latest-news/article215731215.html">"Second firefighter killed fighting Ferguson Fire, officials confirm"</a>. <i>Fresno Bee</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fresno+Bee&amp;rft.atitle=Second+firefighter+killed+fighting+Ferguson+Fire%2C+officials+confirm&amp;rft_id=https%3A%2F%2Fwww.fresnobee.com%2Flatest-news%2Farticle215731215.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-PG&amp;E-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-PG&amp;E_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PG&amp;E_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.redding.com/story/news/2018/08/04/pg-e-employee-becomes-seventh-carr-fire-fatality/909483002/">"PG&amp;E employee becomes seventh Carr Fire fatality"</a>. <i>Redding Record Searchlight</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Redding+Record+Searchlight&amp;rft.atitle=PG%26E+employee+becomes+seventh+Carr+Fire+fatality&amp;rft_id=https%3A%2F%2Fwww.redding.com%2Fstory%2Fnews%2F2018%2F08%2F04%2Fpg-e-employee-becomes-seventh-carr-fire-fatality%2F909483002%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Eighth_Carr-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eighth_Carr_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eighth_Carr_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBrowning2018" class="citation web cs1">Browning, Kellen (August 9, 2018). <a rel="nofollow" class="external text" href="https://www.sacbee.com/news/state/california/fires/article216377810.html">"Eighth person dies in relation to Carr Fire"</a>. <i>The Sacramento Bee</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 9,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sacramento+Bee&amp;rft.atitle=Eighth+person+dies+in+relation+to+Carr+Fire&amp;rft.date=2018-08-09&amp;rft.aulast=Browning&amp;rft.aufirst=Kellen&amp;rft_id=https%3A%2F%2Fwww.sacbee.com%2Fnews%2Fstate%2Fcalifornia%2Ffires%2Farticle216377810.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite id="CITEREFCalifornia" class="citation web cs1">California, State of. <a rel="nofollow" class="external text" href="https://www.gov.ca.gov/2018/08/04/governor-brown-announces-federal-approval-of-presidential-major-disaster-declaration-for-shasta-county/">"Governor Brown Announces Federal Approval of Presidential Major Disaster Declaration for Shasta County – Governor Edmund G. Brown Jr"</a>. <i>www.gov.ca.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.gov.ca.gov&amp;rft.atitle=Governor+Brown+Announces+Federal+Approval+of+Presidential+Major+Disaster+Declaration+for+Shasta+County+%E2%80%93+Governor+Edmund+G.+Brown+Jr.&amp;rft.aulast=California&amp;rft.aufirst=State+of&amp;rft_id=https%3A%2F%2Fwww.gov.ca.gov%2F2018%2F08%2F04%2Fgovernor-brown-announces-federal-approval-of-presidential-major-disaster-declaration-for-shasta-county%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-us-canada-45093636">"California wildfire declared 'largest in state's history<span class="cs1-kern-right">'</span>"</a>. BBC News. August 7, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=California+wildfire+declared+%27largest+in+state%27s+history%27&amp;rft.pub=BBC+News&amp;rft.date=2018-08-07&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-us-canada-45093636&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Ranch_Fire-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ranch_Fire_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ranch_Fire_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2175">"Ranch Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. August 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ranch+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-08-12&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2175&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sfchronicle.com/news/article/Ferguson-Fire-Tree-mortality-epidemic-adding-to-13109023.php">"Ferguson Fire: Tree mortality epidemic adding to fire crews' headaches"</a>. <i>San Francisco Chronicle[[]]</i>. July 26, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft.atitle=Ferguson+Fire%3A+Tree+mortality+epidemic+adding+to+fire+crews%E2%80%99+headaches&amp;rft.date=2018-07-26&amp;rft_id=https%3A%2F%2Fwww.sfchronicle.com%2Fnews%2Farticle%2FFerguson-Fire-Tree-mortality-epidemic-adding-to-13109023.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd566303.pdf">"Record 129 Million Dead Trees in California"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/United_States_Forest_Service" title="United States Forest Service">United States Forest Service</a></i>. July 1, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+States+Forest+Service&amp;rft.atitle=Record+129+Million+Dead+Trees+in+California&amp;rft.date=2018-07-01&amp;rft_id=https%3A%2F%2Fwww.fs.usda.gov%2FInternet%2FFSE_DOCUMENTS%2Ffseprd566303.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/world/americas/carr-fire-latest-california-wildfire-worse-update-global-warming-a8471956.html">"California wildfires will get worse in the future because of climate change, experts say"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 1,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=California+wildfires+will+get+worse+in+the+future+because+of+climate+change%2C+experts+say&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fcarr-fire-latest-california-wildfire-worse-update-global-warming-a8471956.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="http://www.pnas.org/content/early/2018/03/06/1718850115">"Rapid growth of the US wildland-urban interface raises wildfire risk"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rapid+growth+of+the+US+wildland-urban+interface+raises+wildfire+risk&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2018%2F03%2F06%2F1718850115&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.fs.fed.us/openspace/fote/reports/GTR-299.pdf">"Wildfire, Wildlands, and People: Understanding and Preparing for Wildfire in the Wildland-Urban Interface"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wildfire%2C+Wildlands%2C+and+People%3A+Understanding+and+Preparing+for+Wildfire+in+the+Wildland-Urban+Interface&amp;rft_id=https%3A%2F%2Fwww.fs.fed.us%2Fopenspace%2Ffote%2Freports%2FGTR-299.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://earther.gizmodo.com/we-re-building-millions-of-homes-in-the-line-of-wildfir-1823736981">https://earther.gizmodo.com/we-re-building-millions-of-homes-in-the-line-of-wildfir-1823736981</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://airnow.gov/index.cfm?action=airnow.local_state">"California Air Quality"</a>. <i>Air Now</i>. August 7, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Air+Now&amp;rft.atitle=California+Air+Quality&amp;rft.date=2018-08-07&amp;rft_id=https%3A%2F%2Fairnow.gov%2Findex.cfm%3Faction%3Dairnow.local_state&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=1938">"Pleasant Fire"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=Pleasant+Fire&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D1938&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=1981">"Moffat Fire"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 20,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=Moffat+Fire&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D1981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=1992">"Nees Fire"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=Nees+Fire&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D1992&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2002">"Patterson Fire"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=Patterson+Fire&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2002&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2039">"Panoche Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 7, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Panoche+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-07&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2039&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Stone_Fire-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stone_Fire_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/5824/">"Apple Fire"</a>. InciWeb. June 13, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Apple+Fire&amp;rft.pub=InciWeb&amp;rft.date=2018-06-13&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F5824%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Airline_Fire-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Airline_Fire_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2036">"Airline Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Airline+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-14&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2036&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Apple_Fire-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Apple_Fire_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2044">"Apple Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Apple+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-14&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2044&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Chrome_Fire-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chrome_Fire_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2045">"Chrome Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 21, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chrome+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-21&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2045&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Lions_Fire-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lions_Fire_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/5850/">"Lions Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 9, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lions+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-09&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F5850%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2086">"Lions Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 26, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lions+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-26&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2086&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Planada_Fire-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Planada_Fire_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2061">"Planada Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 21, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Planada+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-21&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2061&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Yankee_Fire-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Yankee_Fire_34-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2074">"Yankee Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 1, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yankee+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-01&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2074&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Lane_Fire-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lane_Fire_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2077">"Lane Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. June 27, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lane+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-06-27&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2077&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Pawnee_Fire-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pawnee_Fire_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2080">"Pawnee Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 8, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 9,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pawnee+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-08&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2080&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Creek_Fire_2018-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Creek_Fire_2018_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2082">"Creek Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 4, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Creek+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-04&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2082&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2095">"Waverly Fire"</a>. <i><a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a></i>. July 2, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CAL+FIRE&amp;rft.atitle=Waverly+Fire&amp;rft.date=2018-07-02&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2095&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-County_Fire-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-County_Fire_39-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2101">"County Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=County+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-14&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2101&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Klamathon_Fire-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Klamathon_Fire_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2108">"Klamathon Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Klamathon+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-14&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2108&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-one_dead-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-one_dead_41-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFKellen_BrowningDaniel_Brown2018" class="citation web cs1">Kellen Browning; Daniel Brown (July 6, 2018). <a rel="nofollow" class="external text" href="https://www.sacbee.com/news/local/transportation/article214407614.html">"At least one dead as Klamathon Fire tops 9,600 acres, remains state of emergency"</a>. The Sacramento Bee<span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=At+least+one+dead+as+Klamathon+Fire+tops+9%2C600+acres%2C+remains+state+of+emergency&amp;rft.pub=The+Sacramento+Bee&amp;rft.date=2018-07-06&amp;rft.au=Kellen+Browning&amp;rft.au=Daniel+Brown&amp;rft_id=https%3A%2F%2Fwww.sacbee.com%2Fnews%2Flocal%2Ftransportation%2Farticle214407614.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Valley_Fire-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Valley_Fire_42-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2114">"Valley Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 13, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Valley+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-13&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Holiday_Fire-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-Holiday_Fire_43-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2115">"Holiday Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 13, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holiday+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-13&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2115&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-2_fires-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-2_fires_44-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFAlexander_Nguyen2018" class="citation web cs1">Alexander Nguyen (July 7, 2018). <a rel="nofollow" class="external text" href="https://www.nbclosangeles.com/news/california/Fire-at-Camp-Pendleton-Prompting-Several-Evacuations-487528231.html">"2 Fires Burning at Camp Pendleton; 750 Homes Evacuated"</a>. NBC Southern California<span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Fires+Burning+at+Camp+Pendleton%3B+750+Homes+Evacuated&amp;rft.pub=NBC+Southern+California&amp;rft.date=2018-07-07&amp;rft.au=Alexander+Nguyen&amp;rft_id=https%3A%2F%2Fwww.nbclosangeles.com%2Fnews%2Fcalifornia%2FFire-at-Camp-Pendleton-Prompting-Several-Evacuations-487528231.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite id="CITEREFBrytani_Wheeler2018" class="citation web cs1">Brytani Wheeler (July 11, 2018). <a rel="nofollow" class="external text" href="https://www.marines.mil/News/News-Display/Article/1571559/3rd-maw-supports-firefighting-operations-at-camp-pendleton/">"3rd MAW supports firefighting operations at Camp Pendleton"</a>. Marines<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=3rd+MAW+supports+firefighting+operations+at+Camp+Pendleton&amp;rft.pub=Marines&amp;rft.date=2018-07-11&amp;rft.au=Brytani+Wheeler&amp;rft_id=https%3A%2F%2Fwww.marines.mil%2FNews%2FNews-Display%2FArticle%2F1571559%2F3rd-maw-supports-firefighting-operations-at-camp-pendleton%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-West_Fire-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-West_Fire_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2112">"West Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=West+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-11&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2112&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2118">"Georges Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 13, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Georges+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-13&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2118&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/5927/">"Ferguson Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 16, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ferguson+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-16&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F5927%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/5926/">"Eagle Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 15, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eagle+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-15&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F5926%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/5948/">"Natchez Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 25, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 27,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Natchez+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-25&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F5948%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2164">"Carr Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. August 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carr+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-08-12&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2164&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/6032/">"Cranston Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 26, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 26,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cranston+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-26&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F6032%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-River_Fire-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-River_Fire_53-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2178">"River Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. July 28, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=River+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-07-28&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite id="CITEREFCurtis_Driscoll2018" class="citation web cs1">Curtis Driscoll (July 28, 2018). <a rel="nofollow" class="external text" href="http://www.ukiahdailyjournal.com/article/NP/20180728/NEWS/180729885">"Cal Fire renames River and Ranch fires the Mendocino Complex Fire"</a>. Ukiah Daily Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cal+Fire+renames+River+and+Ranch+fires+the+Mendocino+Complex+Fire&amp;rft.pub=Ukiah+Daily+Journal&amp;rft.date=2018-07-28&amp;rft.au=Curtis+Driscoll&amp;rft_id=http%3A%2F%2Fwww.ukiahdailyjournal.com%2Farticle%2FNP%2F20180728%2FNEWS%2F180729885&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/6073/">"Mendocino Complex Information - InciWeb the Incident Information System"</a>. August 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mendocino+Complex+Information+-+InciWeb+the+Incident+Information+System&amp;rft.date=2018-08-05&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F6073%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/6048/">"Whaleback Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a>. July 28, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Whaleback+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft.date=2018-07-28&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F6048%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2188">"Butte Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. August 3, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Butte+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-08-03&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/6092/">"Donnell Fire:  Incident information"</a>. InciWeb. August 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Donnell+Fire%3A++Incident+information&amp;rft.pub=InciWeb&amp;rft.date=2018-08-12&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F6092%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2193">"Tarina Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. August 3, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tarina+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-08-03&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2193&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cbs8.com/story/38815750/vegetation-fire-at-camp-pendleton">"1,000-acre brush fire at Camp Pendleton fully contained"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1%2C000-acre+brush+fire+at+Camp+Pendleton+fully+contained&amp;rft_id=http%3A%2F%2Fwww.cbs8.com%2Fstory%2F38815750%2Fvegetation-fire-at-camp-pendleton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2199">"Turkey Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkey+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2199&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inciweb.nwcg.gov/incident/6106/">"Holy Fire"</a>. <a href="/wiki/National_Wildfire_Coordinating_Group" title="National Wildfire Coordinating Group">National Wildfire Coordinating Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holy+Fire&amp;rft.pub=National+Wildfire+Coordinating+Group&amp;rft_id=https%3A%2F%2Finciweb.nwcg.gov%2Fincident%2F6106%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite id="CITEREFCalifornia" class="citation web cs1">California, State of. <a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2203">"Five Fire General Information"</a>. <i>cdfdata.fire.ca.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cdfdata.fire.ca.gov&amp;rft.atitle=Five+Fire+General+Information&amp;rft.aulast=California&amp;rft.aufirst=State+of&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2203&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2208">"Hat Fire"</a>. <a href="/wiki/CAL_FIRE" class="mw-redirect" title="CAL FIRE">CAL FIRE</a>. August 10, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hat+Fire&amp;rft.pub=CAL+FIRE&amp;rft.date=2018-08-10&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2208&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><cite id="CITEREFCalifornia" class="citation web cs1">California, State of. <a rel="nofollow" class="external text" href="http://cdfdata.fire.ca.gov/incidents/incidents_details_info?incident_id=2210">"Nelson Fire General Information"</a>. <i>cdfdata.fire.ca.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cdfdata.fire.ca.gov&amp;rft.atitle=Nelson+Fire+General+Information&amp;rft.aulast=California&amp;rft.aufirst=State+of&amp;rft_id=http%3A%2F%2Fcdfdata.fire.ca.gov%2Fincidents%2Fincidents_details_info%3Fincident_id%3D2210&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><cite id="CITEREFGomez2018" class="citation news cs1">Gomez, Mark (June 5, 2018). <a rel="nofollow" class="external text" href="https://www.mercurynews.com/2018/06/05/remains-of-at-least-three-people-discovered-in-san-benito-county-wildfire/">"Three discovered dead in San Benito County wildfire"</a>. <i><a href="/wiki/Mercury_News" class="mw-redirect" title="Mercury News">Mercury News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mercury+News&amp;rft.atitle=Three+discovered+dead+in+San+Benito+County+wildfire&amp;rft.date=2018-06-05&amp;rft.aulast=Gomez&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fwww.mercurynews.com%2F2018%2F06%2F05%2Fremains-of-at-least-three-people-discovered-in-san-benito-county-wildfire%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><cite id="CITEREFLarson2018" class="citation news cs1">Larson, Amy (June 5, 2018). <a rel="nofollow" class="external text" href="http://www.ksbw.com/article/mother-baby-toddler-killed-in-san-benito-county-wildfire/21087967">"Mother, baby, toddler killed in San Benito County wildfire"</a>. <i><a href="/wiki/KSBW" title="KSBW">KSBW</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=KSBW&amp;rft.atitle=Mother%2C+baby%2C+toddler+killed+in+San+Benito+County+wildfire&amp;rft.date=2018-06-05&amp;rft.aulast=Larson&amp;rft.aufirst=Amy&amp;rft_id=http%3A%2F%2Fwww.ksbw.com%2Farticle%2Fmother-baby-toddler-killed-in-san-benito-county-wildfire%2F21087967&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-CarrFire6Deaths-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-CarrFire6Deaths_68-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.washingtonpost.com/news/post-nation/wp/2018/07/29/grandma-did-everything-she-could-carr-fire-claims-3-more-victims-spreads-in-every-direction/?utm_term=.17705fddf15b">"Carr Fire death toll climbs to six as crews 'gain some ground' against massive blaze"</a>. <i>WashingtonPost</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WashingtonPost&amp;rft.atitle=Carr+Fire+death+toll+climbs+to+six+as+crews+%E2%80%98gain+some+ground%E2%80%99+against+massive+blaze&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Fpost-nation%2Fwp%2F2018%2F07%2F29%2Fgrandma-did-everything-she-could-carr-fire-claims-3-more-victims-spreads-in-every-direction%2F%3Futm_term%3D.17705fddf15b&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-CarrMissing-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-CarrMissing_69-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.cnn.com/2018/07/29/us/carr-fire-california/index.html">"7 missing as deadly California wildfire continues to grow"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=7+missing+as+deadly+California+wildfire+continues+to+grow&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2018%2F07%2F29%2Fus%2Fcarr-fire-california%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2018+California+wildfires" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2018_wildfires_in_California" class="extiw" title="commons:Category:2018 wildfires in California"><span style="">2018 wildfires in California</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.fire.ca.gov/current_incidents">Current fire information</a> - CalFire</li>
+<li><a rel="nofollow" class="external text" href="https://firemap.sdsc.edu/">SDSC WiFire Interactive Map</a>&#160;— San Diego Supercomputer Center</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="California_wildfires" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: sandybrown;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:California_wildfires" title="Template:California wildfires"><abbr title="View this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:California_wildfires" title="Template talk:California wildfires"><abbr title="Discuss this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:California_wildfires&amp;action=edit"><abbr title="Edit this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="California_wildfires" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_California_wildfires" title="List of California wildfires">California wildfires</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/Category:Wildfires_in_California" title="Category:Wildfires in California">Pre-2000</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Santiago_Canyon_Fire" title="Santiago Canyon Fire">Santiago Canyon</a> (1889)</li>
+<li><a href="/wiki/1923_Berkeley,_California_fire" title="1923 Berkeley, California fire">Berkeley</a> (1923)</li>
+<li>Matilija (1932)</li>
+<li><a href="/wiki/Griffith_Park_Fire" class="mw-redirect" title="Griffith Park Fire">Griffith Park</a> (1933)</li>
+<li><a href="/wiki/Rattlesnake_Fire" title="Rattlesnake Fire">Rattlesnake</a> (1953)</li>
+<li><a href="/wiki/Bel_Air_Fire" title="Bel Air Fire">Bel Air</a> (1961)</li>
+<li><a href="/wiki/Laguna_Fire" title="Laguna Fire">Laguna</a> (1970)</li>
+<li><a href="/wiki/Marble_Cone_Fire" title="Marble Cone Fire">Marble Cone</a> (1977)</li>
+<li><a href="/wiki/1978_Agoura-Malibu_firestorm" title="1978 Agoura-Malibu firestorm">Agoura-Malibu firestorm</a> (1978)</li>
+<li><a href="/wiki/1980_Panorama_Fire" title="1980 Panorama Fire">Panorama</a> (1980)</li>
+<li><a href="/wiki/Painted_Cave_Fire" title="Painted Cave Fire">Painted Cave</a> (1990)</li>
+<li><a href="/wiki/Oakland_firestorm_of_1991" title="Oakland firestorm of 1991">Oakland Hills</a> (1991)</li>
+<li><a href="/wiki/Mount_Vision_Fire" title="Mount Vision Fire">Mount Vision</a> (1995)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2002_California_wildfires" title="2002 California wildfires">2002</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biscuit_Fire" title="Biscuit Fire">Biscuit</a></li>
+<li><a href="/wiki/McNally_Fire" title="McNally Fire">McNally</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2003_California_wildfires" title="2003 California wildfires">2003</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Old_Fire" title="Old Fire">Old</a></li>
+<li><a href="/wiki/Simi_Fire" title="Simi Fire">Simi</a></li>
+<li><a href="/wiki/Cedar_Fire" title="Cedar Fire">Cedar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2004_California_wildfires" title="2004 California wildfires">2004</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rumsey_Fire" title="Rumsey Fire">Rumsey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2005_California_wildfires" title="2005 California wildfires">2005</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Labor_Day_brush_fire" title="2005 Labor Day brush fire">Labor Day</a></li>
+<li><a href="/wiki/Topanga_Fire" title="Topanga Fire">Topanga</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2006_California_wildfires" title="2006 California wildfires">2006</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sawtooth_Complex_Fire" title="Sawtooth Complex Fire">Sawtooth Complex</a></li>
+<li><a href="/wiki/Day_Fire" title="Day Fire">Day</a></li>
+<li><a href="/wiki/Esperanza_Fire" title="Esperanza Fire">Esperanza</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2007_California_wildfires" title="2007 California wildfires">2007</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Island_Fire" title="Island Fire">Island</a></li>
+<li><a href="/wiki/Angora_Fire" title="Angora Fire">Angora</a></li>
+<li><a href="/wiki/Zaca_Fire" title="Zaca Fire">Zaca</a></li>
+<li><a href="/wiki/Moonlight_Fire" title="Moonlight Fire">Moonlight</a></li>
+<li><a href="/wiki/October_2007_California_wildfires" title="October 2007 California wildfires">October 2007 wildfires</a>
+<ul><li><a href="/wiki/Harris_Fire" title="Harris Fire">Harris</a></li>
+<li><a href="/wiki/Witch_Fire" title="Witch Fire">Witch</a></li>
+<li><a href="/wiki/Buckweed_Fire" class="mw-redirect" title="Buckweed Fire">Buckweed</a></li>
+<li><a href="/wiki/Santiago_Fire" title="Santiago Fire">Santiago</a></li>
+<li><a href="/wiki/Rice_Fire" title="Rice Fire">Rice</a></li></ul></li>
+<li><a href="/wiki/Corral_Fire" title="Corral Fire">Corral</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2008_California_wildfires" title="2008 California wildfires">2008</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Summit_Fire_(2008)" title="Summit Fire (2008)">Summit</a></li>
+<li><a href="/wiki/Indians_Fire" title="Indians Fire">Indians</a></li>
+<li><a href="/wiki/Basin_Complex_Fire" title="Basin Complex Fire">Basin Complex</a></li>
+<li><a href="/wiki/Klamath_Theater_Complex_Fire" title="Klamath Theater Complex Fire">Klamath Theater Complex</a></li>
+<li><a href="/wiki/Gap_Fire_(2008)" title="Gap Fire (2008)">Gap</a></li>
+<li><a href="/wiki/Sesnon_Fire" title="Sesnon Fire">Sesnon</a></li>
+<li><a href="/wiki/Tea_Fire" title="Tea Fire">Tea</a></li>
+<li><a href="/wiki/Sayre_Fire" title="Sayre Fire">Sayre</a></li>
+<li><a href="/wiki/Freeway_Complex_Fire" title="Freeway Complex Fire">Freeway Complex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2009_California_wildfires" title="2009 California wildfires">2009</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jesusita_Fire" title="Jesusita Fire">Jesusita</a></li>
+<li><a href="/wiki/La_Brea_Fire" title="La Brea Fire">La Brea</a></li>
+<li><a href="/wiki/Lockheed_Fire" title="Lockheed Fire">Lockheed</a></li>
+<li><a href="/wiki/Station_Fire_(2009)" title="Station Fire (2009)">Station</a></li>
+<li><a href="/wiki/Cottonwood_Fire" class="mw-redirect" title="Cottonwood Fire">Cottonwood</a></li>
+<li><a href="/wiki/Guiberson_Fire" title="Guiberson Fire"> Guiberson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2010_California_wildfires" title="2010 California wildfires">2010</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bull_Fire" title="Bull Fire">Bull</a></li>
+<li><a href="/wiki/West_Fire" title="West Fire">West</a></li>
+<li><a href="/wiki/Crown_Fire" title="Crown Fire">Crown</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2011_California_wildfires" title="2011 California wildfires">2011</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lion_Fire" title="Lion Fire">Lion</a></li>
+<li><a href="/wiki/Comanche_Complex_Fires" title="Comanche Complex Fires">Comanche Complex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2012_California_wildfires" title="2012 California wildfires">2012</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barry_Point_Fire" title="Barry Point Fire">Barry Point</a></li>
+<li><a href="/wiki/Rush_Fire" title="Rush Fire">Rush</a></li>
+<li><a href="/wiki/Ponderosa_Fire" title="Ponderosa Fire">Ponderosa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2013_California_wildfires" title="2013 California wildfires">2013</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Summit_Fire_(2013)" title="Summit Fire (2013)">Summit</a></li>
+<li><a href="/wiki/Springs_Fire" title="Springs Fire">Springs</a></li>
+<li><a href="/wiki/Powerhouse_Fire" title="Powerhouse Fire">Powerhouse</a></li>
+<li><a href="/wiki/Mountain_Fire" title="Mountain Fire">Mountain</a></li>
+<li><a href="/wiki/Silver_Fire" title="Silver Fire">Silver</a></li>
+<li><a href="/wiki/Rim_Fire" title="Rim Fire">Rim</a></li>
+<li><a href="/wiki/Clover_Fire" title="Clover Fire">Clover</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2014_California_wildfires" title="2014 California wildfires">2014</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Colby_Fire" title="Colby Fire">Colby</a></li>
+<li><a href="/wiki/Etiwanda_Fire" title="Etiwanda Fire">Etiwanda</a></li>
+<li><a href="/wiki/May_2014_San_Diego_County_wildfires" title="May 2014 San Diego County wildfires">May 2014 wildfires</a>
+<ul><li><a href="/wiki/Bernardo_Fire" title="Bernardo Fire">Bernardo</a></li>
+<li><a href="/wiki/Tomahawk_Fire" title="Tomahawk Fire">Tomahawk</a></li>
+<li><a href="/wiki/Poinsettia_Fire" title="Poinsettia Fire">Poinsettia</a></li>
+<li><a href="/wiki/Cocos_Fire" title="Cocos Fire">Cocos</a></li></ul></li>
+<li><a href="/wiki/Shirley_Fire" title="Shirley Fire">Shirley</a></li>
+<li><a href="/wiki/Bully_Fire" title="Bully Fire">Bully</a></li>
+<li><a href="/wiki/Happy_Camp_Complex_Fire" title="Happy Camp Complex Fire">Happy Camp Complex</a></li>
+<li><a href="/wiki/Meadow_Fire" title="Meadow Fire">Meadow</a></li>
+<li><a href="/wiki/King_Fire" title="King Fire">King</a></li>
+<li><a href="/wiki/Boles_Fire" title="Boles Fire">Boles</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2015_California_wildfires" title="2015 California wildfires">2015</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Round_Fire" class="mw-redirect" title="Round Fire">Round</a></li>
+<li><a href="/wiki/Lake_Fire" title="Lake Fire">Lake</a></li>
+<li><a href="/wiki/North_Fire" title="North Fire">North</a></li>
+<li><a href="/wiki/Wragg_Fire" title="Wragg Fire">Wragg</a></li>
+<li><a href="/wiki/Rocky_Fire" class="mw-redirect" title="Rocky Fire">Rocky</a></li>
+<li><a href="/wiki/River_Complex_Fire" class="mw-redirect" title="River Complex Fire">River Complex</a></li>
+<li><a href="/wiki/Frog_Fire" title="Frog Fire">Frog</a></li>
+<li><a href="/wiki/Rough_Fire" title="Rough Fire">Rough</a></li>
+<li><a href="/wiki/Dodge_Fire" class="mw-redirect" title="Dodge Fire">Dodge</a></li>
+<li><a href="/wiki/Jerusalem_Fire" title="Jerusalem Fire">Jerusalem</a></li>
+<li><a href="/wiki/Cuesta_Fire" title="Cuesta Fire">Cuesta</a></li>
+<li><a href="/wiki/Butte_Fire" title="Butte Fire">Butte</a></li>
+<li><a href="/wiki/Valley_Fire" title="Valley Fire">Valley</a></li>
+<li><a href="/wiki/Tassajara_Fire" title="Tassajara Fire">Tassajara</a></li>
+<li><a href="/wiki/Solimar_Fire" class="mw-redirect" title="Solimar Fire">Solimar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2016_California_wildfires" title="2016 California wildfires">2016</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pony_Fire" class="mw-redirect" title="Pony Fire">Pony</a></li>
+<li><a href="/wiki/Sherpa_Fire" title="Sherpa Fire">Sherpa</a></li>
+<li><a href="/wiki/Border_Fire" title="Border Fire">Border</a></li>
+<li><a href="/wiki/Pine_Fire" class="mw-redirect" title="Pine Fire">Pine</a></li>
+<li><a href="/wiki/San_Gabriel_Complex_Fire" title="San Gabriel Complex Fire">San Gabriel Complex</a></li>
+<li><a href="/wiki/Erskine_Fire" title="Erskine Fire">Erskine</a></li>
+<li><a href="/wiki/Trailhead_Fire" title="Trailhead Fire">Trailhead</a></li>
+<li><a href="/wiki/Deer_Fire" class="mw-redirect" title="Deer Fire">Deer</a></li>
+<li><a href="/wiki/Curry_Fire" title="Curry Fire">Curry</a></li>
+<li><a href="/wiki/Sage_Fire" class="mw-redirect" title="Sage Fire">Sage</a></li>
+<li><a href="/wiki/Roblar_Fire" title="Roblar Fire">Roblar</a></li>
+<li><a href="/wiki/Sand_Fire_(2016)" title="Sand Fire (2016)">Sand</a></li>
+<li><a href="/wiki/Soberanes_Fire" title="Soberanes Fire">Soberanes</a></li>
+<li><a href="/wiki/Goose_Fire" class="mw-redirect" title="Goose Fire">Goose</a></li>
+<li><a href="/wiki/Cold_Fire_(Wildfire)" class="mw-redirect" title="Cold Fire (Wildfire)">Cold</a></li>
+<li><a href="/wiki/Pilot_Fire" title="Pilot Fire">Pilot</a></li>
+<li><a href="/wiki/Mineral_Fire" class="mw-redirect" title="Mineral Fire">Mineral</a></li>
+<li><a href="/wiki/Chimney_Fire" title="Chimney Fire">Chimney</a></li>
+<li><a href="/wiki/Clayton_Fire" title="Clayton Fire">Clayton</a></li>
+<li><a href="/wiki/Blue_Cut_Fire" title="Blue Cut Fire">Blue Cut</a></li>
+<li><a href="/wiki/Cedar_Fire_(2016)" class="mw-redirect" title="Cedar Fire (2016)">Cedar</a></li>
+<li><a href="/wiki/Rey_Fire" title="Rey Fire">Rey</a></li>
+<li><a href="/wiki/Gap_Fire_(2016)" class="mw-redirect" title="Gap Fire (2016)">Gap</a></li>
+<li><a href="/wiki/Bogart_Fire" title="Bogart Fire">Bogart</a></li>
+<li><a href="/wiki/Willard_Fire" class="mw-redirect" title="Willard Fire">Willard</a></li>
+<li><a href="/wiki/Owens_River_Fire" class="mw-redirect" title="Owens River Fire">Owens River</a></li>
+<li><a href="/wiki/Canyon_Fire_(2016)" title="Canyon Fire (2016)">Canyon</a></li>
+<li><a href="/wiki/Sawmill_Fire" class="mw-redirect" title="Sawmill Fire">Sawmill</a></li>
+<li><a href="/wiki/Marshes_Fire" title="Marshes Fire">Marshes</a></li>
+<li><a href="/wiki/Loma_Fire" title="Loma Fire">Loma</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2017_California_wildfires" title="2017 California wildfires">2017</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gate_Fire" title="Gate Fire">Gate</a></li>
+<li><a href="/wiki/Holcomb_Fire" title="Holcomb Fire">Holcomb</a></li>
+<li><a href="/wiki/Schaeffer_Fire" title="Schaeffer Fire">Schaeffer</a></li>
+<li><a href="/wiki/Salmon_August_Complex_Fire" title="Salmon August Complex Fire">Salmon August Complex</a></li>
+<li><a href="/wiki/Manzanita_Fire" title="Manzanita Fire">Manzanita</a></li>
+<li><a href="/wiki/Winters_Fire" title="Winters Fire">Winters</a></li>
+<li><a href="/wiki/Alamo_Fire_(2017)" title="Alamo Fire (2017)">Alamo</a></li>
+<li><a href="/wiki/Wall_Fire" title="Wall Fire">Wall</a></li>
+<li><a href="/wiki/Whittier_Fire" title="Whittier Fire">Whittier</a></li>
+<li><a href="/wiki/Detwiler_Fire" title="Detwiler Fire">Detwiler</a></li>
+<li><a href="/wiki/Empire_Fire" title="Empire Fire">Empire</a></li>
+<li><a href="/wiki/Parker_2_Fire" title="Parker 2 Fire">Parker 2</a></li>
+<li><a href="/wiki/Young_Fire" title="Young Fire">Young</a></li>
+<li><a href="/wiki/Pier_Fire" title="Pier Fire">Pier</a></li>
+<li><a href="/wiki/Railroad_Fire" title="Railroad Fire">Railroad</a></li>
+<li><a href="/wiki/Ponderosa_Fire_(2017)" title="Ponderosa Fire (2017)">Ponderosa</a></li>
+<li><a href="/wiki/Mud_Fire" title="Mud Fire">Mud</a></li>
+<li><a href="/wiki/Slinkard_Fire" title="Slinkard Fire">Slinkard</a></li>
+<li><a href="/wiki/Helena_Fire" title="Helena Fire">Helena</a></li>
+<li><a href="/wiki/La_Tuna_Fire" title="La Tuna Fire">La Tuna</a></li>
+<li><a href="/wiki/Palmer_Fire" title="Palmer Fire">Palmer</a></li>
+<li><a href="/wiki/Mission_Fire" title="Mission Fire">Mission</a></li>
+<li><a href="/wiki/October_2017_Northern_California_wildfires" title="October 2017 Northern California wildfires">October 2017 wildfires</a>
+<ul><li><a href="/wiki/Atlas_Fire" title="Atlas Fire">Atlas</a></li>
+<li><a href="/wiki/Tubbs_Fire" title="Tubbs Fire">Tubbs</a></li></ul></li>
+<li><a href="/wiki/Canyon_Fire_2" title="Canyon Fire 2">Canyon 2</a></li>
+<li><a href="/wiki/December_2017_Southern_California_wildfires" title="December 2017 Southern California wildfires">December 2017 wildfires</a>
+<ul><li><a href="/wiki/Thomas_Fire" title="Thomas Fire">Thomas</a></li>
+<li><a href="/wiki/Creek_Fire" title="Creek Fire">Creek</a></li>
+<li><a href="/wiki/Rye_Fire" title="Rye Fire">Rye</a></li>
+<li><a href="/wiki/Skirball_Fire" title="Skirball Fire">Skirball</a></li>
+<li><a href="/wiki/Lilac_Fire" title="Lilac Fire">Lilac</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a class="mw-selflink selflink">2018</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lions_Fire" title="Lions Fire">Lions</a></li>
+<li><a href="/wiki/Lane_Fire" title="Lane Fire">Lane</a></li>
+<li><a href="/wiki/Pawnee_Fire" title="Pawnee Fire">Pawnee</a></li>
+<li><a href="/wiki/Waverly_Fire" title="Waverly Fire">Waverly</a></li>
+<li><a href="/wiki/County_Fire" title="County Fire">County</a></li>
+<li><a href="/wiki/Klamathon_Fire" title="Klamathon Fire">Klamathon</a></li>
+<li><a href="/wiki/Georges_Fire" title="Georges Fire">Georges</a></li>
+<li><a href="/wiki/Valley_Fire_(2018)" title="Valley Fire (2018)">Valley</a></li>
+<li><a href="/wiki/Holiday_Fire" class="mw-redirect" title="Holiday Fire">Holiday Fire</a></li>
+<li><a href="/wiki/Ferguson_Fire" title="Ferguson Fire">Ferguson</a></li>
+<li><a href="/wiki/Natchez_Fire" title="Natchez Fire">Natchez</a></li>
+<li><a href="/wiki/Carr_Fire" title="Carr Fire">Carr</a></li>
+<li><a href="/wiki/Cranston_Fire" title="Cranston Fire">Cranston</a></li>
+<li><a href="/wiki/Mendocino_Complex_Fire" title="Mendocino Complex Fire">Mendocino Complex</a></li>
+<li><a href="/wiki/Whaleback_Fire" title="Whaleback Fire">Whaleback</a></li>
+<li><a href="/wiki/Donnell_Fire" title="Donnell Fire">Donnell</a></li>
+<li><a href="/wiki/Holy_Fire_(2018)" title="Holy Fire (2018)">Holy</a></li>
+<li><a href="/wiki/Hirz_Fire" title="Hirz Fire">Hirz</a></li>
+<li><a href="/wiki/Delta_Fire" title="Delta Fire">Delta</a></li>
+<li><a href="/wiki/Camp_Fire_(2018)" title="Camp Fire (2018)">Camp</a></li>
+<li><a href="/wiki/Woolsey_Fire" title="Woolsey Fire">Woolsey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2019_California_wildfires" title="2019 California wildfires">2019</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boulder_Fire" title="Boulder Fire">Boulder</a></li>
+<li><a href="/wiki/Sand_Fire_(2019)" title="Sand Fire (2019)">Sand</a></li>
+<li><a href="/wiki/West_Butte_Fire" title="West Butte Fire">West Butte</a></li>
+<li><a href="/wiki/Tucker_Fire" title="Tucker Fire">Tucker</a></li>
+<li><a href="/wiki/Tenaja_Fire" title="Tenaja Fire">Tenaja</a></li>
+<li><a href="/wiki/Walker_Fire" title="Walker Fire">Walker</a></li>
+<li><a href="/wiki/Lime_Fire" title="Lime Fire">Lime</a></li>
+<li><a href="/wiki/Taboose_Fire" title="Taboose Fire">Taboose</a></li>
+<li><a href="/wiki/Red_Bank_Fire" title="Red Bank Fire">Red Bank</a></li>
+<li><a href="/wiki/South_Fire" title="South Fire">South</a></li>
+<li><a href="/wiki/Lone_Fire" title="Lone Fire">Lone</a></li>
+<li><a href="/wiki/Sandalwood_Fire" title="Sandalwood Fire">Sandalwood</a></li>
+<li><a href="/wiki/Saddleridge_Fire" title="Saddleridge Fire">Saddleridge</a></li>
+<li><a href="/wiki/Kincade_Fire" title="Kincade Fire">Kincade</a></li>
+<li><a href="/wiki/Tick_Fire" title="Tick Fire">Tick</a></li>
+<li><a href="/wiki/Getty_Fire" title="Getty Fire">Getty</a></li>
+<li><a href="/wiki/Easy_Fire" title="Easy Fire">Easy</a></li>
+<li><a href="/wiki/Maria_Fire" title="Maria Fire">Maria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%"><a href="/wiki/2020_California_wildfires" title="2020 California wildfires">2020</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Quail_Fire" title="Quail Fire">Quail</a></li>
+<li><a href="/wiki/Grant_Fire" title="Grant Fire">Grant</a></li>
+<li><a href="/wiki/Crews_Fire" title="Crews Fire">Crews</a></li>
+<li><a href="/wiki/Soledad_Fire" title="Soledad Fire">Soledad</a></li>
+<li><a href="/wiki/Mineral_Fire_(2020)" title="Mineral Fire (2020)">Mineral</a></li>
+<li><a href="/wiki/Hog_Fire" title="Hog Fire">Hog</a></li>
+<li><a href="/wiki/Gold_Fire_(2020)" title="Gold Fire (2020)">Gold</a></li>
+<li><a href="/wiki/Apple_Fire" title="Apple Fire">Apple</a></li>
+<li><a href="/wiki/Stagecoach_Fire" title="Stagecoach Fire">Stagecoach</a></li>
+<li><a href="/wiki/Lake_Fire_(2020)" title="Lake Fire (2020)">Lake</a></li>
+<li><a href="/wiki/Loyalton_Fire" title="Loyalton Fire">Loyalton</a></li>
+<li><a href="/wiki/August_2020_California_lightning_wildfires" title="August 2020 California lightning wildfires">August 2020 wildfires</a>
+<ul><li><a href="/wiki/River_Fire" title="River Fire">River</a></li>
+<li>Lightning Complexes
+<ul><li><a href="/wiki/CZU_Lightning_Complex_Fire" class="mw-redirect" title="CZU Lightning Complex Fire">CZU</a></li>
+<li><a href="/wiki/LNU_Lightning_Complex_Fire" class="mw-redirect" title="LNU Lightning Complex Fire">LNU</a></li>
+<li><a href="/wiki/SCU_Lightning_Complex_Fires" title="SCU Lightning Complex Fires">SCU</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color: sandybrown;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Wildfires_in_California_by_year" title="Category:Wildfires in California by year">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Wildfires_in_California" class="extiw" title="commons:Category:Wildfires in California">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2018_wildfires" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: sandybrown;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:2018_wildfires" title="Template:2018 wildfires"><abbr title="View this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2018_wildfires" title="Template talk:2018 wildfires"><abbr title="Discuss this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2018_wildfires&amp;action=edit"><abbr title="Edit this template" style="background-color: sandybrown;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2018_wildfires" style="font-size:114%;margin:0 4em"><a href="/wiki/2018_wildfire_season" title="2018 wildfire season">2018 wildfires</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%">Americas</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_British_Columbia_wildfires" title="2018 British Columbia wildfires">British Columbia</a></li>
+<li><a class="mw-selflink selflink">California</a></li>
+<li><a href="/wiki/2018_Montana_wildfires" title="2018 Montana wildfires">Montana</a></li>
+<li><a href="/wiki/2018_Nevada_wildfires" title="2018 Nevada wildfires">Nevada</a></li>
+<li><a href="/wiki/2018_Oregon_wildfires" title="2018 Oregon wildfires">Oregon</a></li>
+<li><a href="/wiki/2018_Utah_wildfires" title="2018 Utah wildfires">Utah</a></li>
+<li><a href="/wiki/2018_Washington_wildfires" title="2018 Washington wildfires">Washington</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%">Asia</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Russian_wildfires" title="2018 Russian wildfires">Russia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%">Europe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Attica_wildfires" title="2018 Attica wildfires">Attica (Greece)</a></li>
+<li><a href="/wiki/2018_Sweden_wildfires" title="2018 Sweden wildfires">Sweden</a></li>
+<li><a href="/wiki/2018_United_Kingdom_wildfires" title="2018 United Kingdom wildfires">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color: sandybrown;;width:1%">Oceania</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2017%E2%80%9318_Australian_bushfire_season" title="2017–18 Australian bushfire season">Australia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1355
+Cached time: 20200826002938
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.848 seconds
+Real time usage: 1.034 seconds
+Preprocessor visited node count: 4086/1000000
+Post‐expand include size: 189574/2097152 bytes
+Template argument size: 10642/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 263632/5000000 bytes
+Lua time usage: 0.467/10.000 seconds
+Lua memory usage: 7.8 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  832.760      1 -total
+ 57.50%  478.818      1 Template:Reflist
+ 44.75%  372.642     58 Template:Cite_web
+ 16.84%  140.254      1 Template:Infobox_wildfire
+ 16.10%  134.068      1 Template:Infobox
+  7.95%   66.171      4 Template:Convert
+  6.66%   55.429      1 Template:Use_mdy_dates
+  6.63%   55.229      1 Template:Commons_category
+  6.19%   51.574      1 Template:Sister_project
+  5.83%   48.575      1 Template:Side_box
+-->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2018_California_wildfires&amp;oldid=854767931">https://en.wikipedia.org/w/index.php?title=2018_California_wildfires&amp;oldid=854767931</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2018_California_wildfires" title="Category:2018 California wildfires">2018 California wildfires</a></li><li><a href="/wiki/Category:Lists_of_wildfires" title="Category:Lists of wildfires">Lists of wildfires</a></li><li><a href="/wiki/Category:Wildfires_in_California_by_year" title="Category:Wildfires in California by year">Wildfires in California by year</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2018" title="Category:Use mdy dates from June 2018">Use mdy dates from June 2018</a></li><li><a href="/wiki/Category:Articles_with_missing_files" title="Category:Articles with missing files">Articles with missing files</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2018+California+wildfires&amp;returntoquery=oldid%3D854767931" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2018+California+wildfires&amp;returntoquery=oldid%3D854767931" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/2018_California_wildfires" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:2018_California_wildfires" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/2018_California_wildfires">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=2018_California_wildfires&amp;action=edit&amp;oldid=854767931" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=2018_California_wildfires&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2018_California_wildfires" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2018_California_wildfires" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2018_California_wildfires&amp;oldid=854767931" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2018_California_wildfires&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2018_California_wildfires&amp;id=854767931&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55391586" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=2018_California_wildfires&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2018_California_wildfires&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:2018_wildfires_in_California" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%A6%D9%82_%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%86%D9%8A%D8%A7_2018" title="حرائق كاليفورنيا 2018 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Incendis_de_2018_a_Calif%C3%B2rnia" title="Incendis de 2018 a Califòrnia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Lesn%C3%AD_po%C5%BE%C3%A1ry_v_Kalifornii_2018" title="Lesní požáry v Kalifornii 2018 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waldbr%C3%A4nde_in_Kalifornien_2018" title="Waldbrände in Kalifornien 2018 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Incendios_forestales_en_California_de_2018" title="Incendios forestales en California de 2018 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%E2%80%8C%D8%B3%D9%88%D8%B2%DB%8C_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%DB%B2%DB%B0%DB%B1%DB%B8_%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7" title="آتش‌سوزی جنگلی ۲۰۱۸ کالیفرنیا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Incendies_de_2018_en_Californie" title="Incendies de 2018 en Californie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/2018%EB%85%84_%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84_%EC%82%B0%EB%B6%88" title="2018년 캘리포니아 산불 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%AC%D5%AB%D6%86%D5%B8%D5%BC%D5%B6%D5%AB%D5%A1%D5%B5%D5%AB_%D5%A1%D5%B6%D5%BF%D5%A1%D5%BC%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D6%80%D5%A4%D5%A5%D5%B0%D5%B6%D5%A5%D6%80_(2018)" title="Կալիֆոռնիայի անտառային հրդեհներ (2018) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%A4%D7%95%D7%AA_%D7%94%D7%99%D7%A2%D7%A8_%D7%91%D7%A7%D7%9C%D7%99%D7%A4%D7%95%D7%A8%D7%A0%D7%99%D7%94_(2018)" title="שרפות היער בקליפורניה (2018) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Focones_savaje_en_California_en_2018" title="Focones savaje en California en 2018 – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Inc%C3%AAndios_florestais_na_Calif%C3%B3rnia_em_2018" title="Incêndios florestais na Califórnia em 2018 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B_(2018)" title="Калифорнийские пожары (2018) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/2018_California_wildfires" title="2018 California wildfires – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kalifornian_maastopalot_2018" title="Kalifornian maastopalot 2018 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Skogsbr%C3%A4nderna_i_Kalifornien_2018" title="Skogsbränderna i Kalifornien 2018 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%96%D1%84%D0%BE%D1%80%D0%BD%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D0%BE%D0%B6%D0%B5%D0%B6%D1%96_2018_%D1%80%D0%BE%D0%BA%D1%83" title="Каліфорнійські пожежі 2018 року – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%C3%A1y_r%E1%BB%ABng_California_n%C4%83m_2018" title="Cháy rừng California năm 2018 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55391586#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 21 August 2020, at 05:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright"><span class="nowraplinks">This version of the page has been <a href="https://en.wikipedia.org/wiki/Wikipedia:Page_history" title="Wikipedia:Page history">revised</a>. Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.</span></li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2018_California_wildfires&amp;oldid=854767931&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.848","walltime":"1.034","ppvisitednodes":{"value":4086,"limit":1000000},"postexpandincludesize":{"value":189574,"limit":2097152},"templateargumentsize":{"value":10642,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":263632,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  832.760      1 -total"," 57.50%  478.818      1 Template:Reflist"," 44.75%  372.642     58 Template:Cite_web"," 16.84%  140.254      1 Template:Infobox_wildfire"," 16.10%  134.068      1 Template:Infobox","  7.95%   66.171      4 Template:Convert","  6.66%   55.429      1 Template:Use_mdy_dates","  6.63%   55.229      1 Template:Commons_category","  6.19%   51.574      1 Template:Sister_project","  5.83%   48.575      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.467","limit":"10.000"},"limitreport-memusage":{"value":8176139,"limit":52428800}},"cachereport":{"origin":"mw1355","timestamp":"20200826002938","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"2018 California wildfires","url":"https:\/\/en.wikipedia.org\/wiki\/2018_California_wildfires","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55391586","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55391586","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-06-10T21:02:50Z","dateModified":"2020-08-21T05:19:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/96\/West_Coast_MODIS_via_EOSDIS_20180801.png","headline":"a series of wildfires that have burned across the state of California"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1274,"wgHostname":"mw1355"});});</script>
+</body></html>
